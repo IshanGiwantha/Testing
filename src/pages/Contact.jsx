@@ -18,7 +18,7 @@ const Contact = () => {
                 htmlFor="first-name"
                 className="block text-sm font-semibold leading-6 text-accent-content"
               >
-                First
+                First Name
               </label>
               <div className="mt-2.5">
                 <input
